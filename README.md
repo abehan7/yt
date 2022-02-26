@@ -1,5 +1,5 @@
 # yt-infinite-scroll
-가장 쉽게 설명해준 infinite scroll \
+<h3>가장 쉽게 설명해준 infinite scroll</h3>
 
 <h2>skill: react, styled-components</h2>
 
